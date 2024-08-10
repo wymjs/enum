@@ -3,7 +3,13 @@
 
 > 類型安全的多定義的映射物件庫
 
-# 使用
+## 安裝
+
+```shell
+pnpm i @wymjs/enum
+```
+
+## 使用
 
 ```typescript
 import { createEnum } from '@wymjs/enum'
