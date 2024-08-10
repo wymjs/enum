@@ -1,6 +1,6 @@
 {
 	"name": "@wymjs/enum",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"type": "module",
 	"description": "類型安全的多定義的映射物件庫",
 	"main": "dist/index.js",
